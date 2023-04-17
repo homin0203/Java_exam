@@ -1950,7 +1950,8 @@ i 개수 : 2
 사용자가 더 이상 입력하지 않겠다고 하면 배열 전체 값을 출력하세요.
 
 #### 예시
-![배열16예시](https://user-images.githubusercontent.com/116356234/232479776-713f1842-2d04-41a9-9d78-9e8d13b99573.png)
+  
+<img src="https://user-images.githubusercontent.com/116356234/232479776-713f1842-2d04-41a9-9d78-9e8d13b99573.png" width="470">
   
 #### 내 코드 실행
 ##### 코드
