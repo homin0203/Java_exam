@@ -2316,7 +2316,6 @@ String 2차원 배열 6행 6열을 만들고 행의 맨 위와 열의 맨 앞은
 ![7_OOP과제_9 (2)](https://user-images.githubusercontent.com/116356234/232500196-1173dbe0-08e7-442f-b430-d81e9d2ed817.png)
 
 #### 내 코드 실행결과
-  
 ![과제1-1](https://user-images.githubusercontent.com/116356234/232501448-9cbbb4c8-e895-4193-9af4-50eb5e6aa418.png)
   
 ![과제1-2](https://user-images.githubusercontent.com/116356234/232501454-2ab44b30-23b5-47ff-a30f-23c0da0395c0.png)
@@ -2350,9 +2349,11 @@ String 2차원 배열 6행 6열을 만들고 행의 맨 위와 열의 맨 앞은
 
 #### 내 코드 실행결과
 
-![과제2-1](https://user-images.githubusercontent.com/116356234/232501458-1860aa41-8c1d-4b47-8497-b50cc11a7c25.png)
-![과제2-2](https://user-images.githubusercontent.com/116356234/232501462-65b17f3d-761c-4c64-af86-78148c8f03db.png)
-![과제2-3](https://user-images.githubusercontent.com/116356234/232501463-75873bba-d64a-4397-aa3c-cbf117f40c69.png)
+<img src="https://user-images.githubusercontent.com/116356234/232501458-1860aa41-8c1d-4b47-8497-b50cc11a7c25.png" width="190">
+  
+<img src="https://user-images.githubusercontent.com/116356234/232501462-65b17f3d-761c-4c64-af86-78148c8f03db.png" width="190">
+
+<img src="https://user-images.githubusercontent.com/116356234/232501463-75873bba-d64a-4397-aa3c-cbf117f40c69.png" width="190">
   
 </div>
 </details>
