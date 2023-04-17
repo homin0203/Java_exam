@@ -406,7 +406,297 @@ C사원 연봉/연봉+a : 2600/2989.9999999999995
 </details>
 
 <details>
-<summary><h3>4️⃣ 조건문(펼쳐보기 🖱️) </h3></summary>
+<summary><h3>4️⃣ 변수&연산자&제어문 종합(펼쳐보기 🖱️) </h3></summary>
+<div markdown="1">
+  
+[→ 변수&연산자&제어문 종합 패키지로 이동](https://github.com/homin0203/Java_exam/tree/main/Homework1_Logic/src/com/kh/hw)
+
+### 문제 안내
+- 프로젝트 명 : Homework1_Logic
+- 기능 실행 클래스 : com.kh.hw.run.Run
+- 기능 제공 클래스 : package가 다름 (import 사용)
+  - 메뉴 제공 클래스 : com.kh.hw.view.Menu
+  - 기능 제공 클래스 : com.kh.hw.controller.Function
+- Run에서 Menu 사용, Menu에서 Function 사용
+- Run클래스에 main()를 구현하여 main()메소드에는 Menu클래스의 displayMenu()메소드 실행
+  
+#### 문제1
+클래스 명 : com.kh.hw.view.Menu
+  
+메소드 명 : public void displayMenu(){}
+  
+1. displayMenu() 메소드에 메뉴 화면이 반복 출력되게 함
+  
+2. 메뉴 번호를 입력 받아 해당 번호의 기능이 실행되게 함
+  
+3. 메뉴 1~8번까지의 실행용 메소드는 Function클래스의 메소드 호출
+  
+4. 9번 입력 시 “종료합니다.” 출력 후 종료
+  
+5. 잘 못 입력 했을 시 “잘못 입력하셨습니다. 다시 입력해주세요.” 출력
+
+#### 예시
+![변수연산자제어문1예시](https://user-images.githubusercontent.com/116356234/232472293-371f57b6-e3f2-4240-9f59-d29b82d8aa0a.png)
+
+#### 내 코드 실행
+##### 코드
+![변수연산자제어문9](https://user-images.githubusercontent.com/116356234/232474427-20579c12-d91f-4ea9-b61b-32f0d51471f2.png)
+  
+##### 결과1
+![변수연산자제어문9-1](https://user-images.githubusercontent.com/116356234/232474421-4a7ba062-7f78-4c80-9eea-3564866c8db5.png)
+  
+##### 결과2
+![변수연산자제어문9-2](https://user-images.githubusercontent.com/116356234/232474420-1d6925f0-b62d-4c3a-8c57-91d6ee63b3ff.png)
+  
+##### 결과2
+![변수연산자제어문9-3](https://user-images.githubusercontent.com/116356234/232474415-5fd575f2-2b0c-42ce-a3fa-222a530e9834.png)
+
+<hr>
+
+#### 문제2
+클래스 명 : com.kh.hw.controller.Function
+  
+메뉴에서 실행시킬 메소드들을 모두 작성
+
+이후 나오는 모든 메소드들은 com.kh.hw.controller.Function 클래스 안에 있는 메소드들임
+
+<hr>
+
+#### 문제3
+메소드 명 : public void calculator(){}
+  
+정수 두 개와 연산자 하나를 키보드로 입력 받아 두 정수는 int변수에, 연산문자는 char에 저장
+  
+연산문자가 +이면 두 정수의 합 계산, -이면 두 정수의 차 계산, x 또는 X이면 두 정수의 곱,
+  
+/이면 두 정수의 나누기 몫이나 나누는 수(두 번째 수)가 0이면 “0으로 나눌 수 없습니다.” 출력하고
+  
+결과 값은 0으로 처리
+
+#### 예시
+첫 번째 정수 : 5
+  
+두 번째 정수 : 0
+  
+연산자(+, -, x, /) : /
+  
+0으로 나눌 수 없습니다.
+  
+5 / 0 = 0
+
+#### 내 코드 실행
+##### 코드
+![변수연산자제어문1](https://user-images.githubusercontent.com/116356234/232474458-6a1a386d-a8ed-442a-8ab1-76e2e866afd7.png)
+  
+##### 결과
+![변수연산자제어문1-1](https://user-images.githubusercontent.com/116356234/232474460-fa5db191-8129-4404-ab4e-928b8183b5fe.png)
+  
+<hr>
+
+#### 문제4
+메소드 명 : public void totalCalculator(){}
+  
+키보드로 정수 두 개를 입력 받아 두 정수 중 작은 값을 시작 값으로 큰 값을 종료 값으로 사용
+  
+작은 값에서 큰 값까지 정수 합계를 구함
+
+#### 예시
+첫 번째 정수 : 3
+  
+두 번째 정수 : 1
+  
+1부터 3까지 정수들의 합 : 6
+
+#### 내 코드 실행
+![변수연산자제어문2](https://user-images.githubusercontent.com/116356234/232474454-31e00b5a-9d08-4089-a4f6-0dba4ada9a78.png)
+  
+<hr>
+
+#### 문제5
+메소드 명 : public void printProfile(){}
+  
+신상 정보들을 자료형에 맞춰 변수에 기록하고 변수에 기록된 값 출력
+
+#### 예시
+이름 : 박신우
+  
+나이 : 33
+  
+성별 : 여자
+  
+성격 : 소심
+  
+이름 : 박신우
+  
+나이 : 33
+  
+성별 : 여자
+  
+성격 : 소심
+
+#### 내 코드 실행
+![변수연산자제어문33](https://user-images.githubusercontent.com/116356234/232474452-15ba832b-f752-4152-b130-9141e0941e04.png)
+  
+<hr>
+
+#### 문제6
+메소드 명 : public void printScore(){}
+  
+키보드로 입력 받은 값들을 변수에 기록하여 변수 값을 화면에 출력
+  
+점수가 90점 이상이면 A학점, 80이상 90미만이면 B, 70이상 80미만이면 C,
+  
+60이상 70미만 D, 60미만 F학점을 매김
+  
+#### 예시
+이름 : 박신우
+  
+학년 : 3
+  
+반 : 3
+  
+번 : 15
+  
+성별(M/F) : F
+  
+성적 : 89.75
+  
+3학년 3반 15번 여학생 박신우의 점수는 89.75이고 B학점입니다.
+
+#### 내 코드 실행
+![변수연산자제어문4](https://user-images.githubusercontent.com/116356234/232474449-c0d9c097-47e5-409d-aed9-25893e4216e5.png)
+  
+<hr>
+
+#### 문제7
+메소드 명 : public void printStarNumber(){}
+  
+정수를 하나 입력 받아 그 수가 양수일 때만 입력된 수를 줄 수로 적용하여 아래와 같이 출력
+  
+#### 예시1
+정수 : 5 
+  
+1 
+  
+\*2
+  
+\**3
+  
+\***4
+  
+\****5
+  
+#### 예시2
+정수 : -5
+  
+양수가 아닙니다.
+  
+#### 내 코드 실행
+##### 코드
+![변수연산자제어문5](https://user-images.githubusercontent.com/116356234/232474444-49084846-be8b-4bb3-b07b-5cc1efebf8dc.png)
+  
+##### 결과1
+![변수연산자제어문5-1](https://user-images.githubusercontent.com/116356234/232474441-a7f8a37d-654d-4e9e-a159-abe59e0a8404.png)
+  
+##### 결과2
+![변수연산자제어문5-2](https://user-images.githubusercontent.com/116356234/232474440-35ebd13e-98c0-41a7-90b3-33995c86f00c.png)
+  
+<hr>
+
+#### 문제8
+메소드 명 : public void sumRandom(){}
+  
+1부터 100 사이의 정수 중 임의의 정수를 하나 발생시켜 1부터 랜덤 수까지의 합계 출력
+  
+#### 예시
+1부터 70까지의 합 : 2485
+  
+#### 내 코드 실행
+![변수연산자제어문6](https://user-images.githubusercontent.com/116356234/232474438-75d2f81c-3a9d-49e1-944e-46a34b93707c.png)
+  
+<hr>
+
+#### 문제9
+메소드 명 : public void exceptGugu(){}
+  
+정수를 하나 입력 받아 그 수가 양수일 때만 그 수의 구구단 출력
+  
+단 곱하기 수가 입력 받은 단의 배수일 경우 출력 제외
+
+#### 예시
+정수 : 3
+  
+3 * 1 = 3
+  
+3 * 2 = 6
+  
+3 * 4 = 12
+  
+3 * 5 = 15
+  
+3 * 7 = 21
+  
+3 * 8 = 24
+
+#### 내 코드 실행
+![변수연산자제어문7](https://user-images.githubusercontent.com/116356234/232474435-5b905781-5efc-4b5e-a43b-889df3b287d9.png)
+
+<hr>
+
+#### 문제10
+메소드 명 : public void diceGame(){}
+  
+두 개의 주사위가 만들어낼 수 있는 모든 경우의 수를 랜덤으로 정하고
+  
+랜덤으로 정해진 두 주사위 눈의 합이 입력된 수와 같은 경우 “맞췄습니다“ 출력,
+  
+입력 값과 다르면 “틀렸습니다“ 출력하여 맞출 때까지 반복
+  
+값을 맞추면 “계속 하시겠습니까? (y/n) : “가 출력되고
+  
+‘y’ 또는 ‘Y’ 입력 시 새로운 랜덤 수가 정해지고 처음부터 다시 시작, ‘n’ 또는 ‘N’ 입력 시 종료
+
+#### 예시
+주사위 두 개의 합을 맞춰보세요(1~12입력) : 5
+  
+정답입니다.
+  
+주사위의 합 : 5
+  
+계속 하시겠습니까?(y/n) : y
+  
+주사위 두 개의 합을 맞춰보세요(1~12입력) : 12
+  
+틀렸습니다.
+  
+주사위 두 개의 합을 맞춰보세요(1~12입력) : 8
+  
+틀렸습니다.
+  
+주사위 두 개의 합을 맞춰보세요(1~12입력) : 9
+  
+정답입니다.
+  
+주사위의 합 : 9
+  
+계속 하시겠습니까?(y/n) : n
+  
+종료합니다.
+
+#### 내 코드 실행
+##### 코드
+![변수연산자제어문8](https://user-images.githubusercontent.com/116356234/232474432-794c4403-86b9-478e-b73b-4044e9a17eb6.png)
+
+##### 결과
+![변수연산자제어문8-1](https://user-images.githubusercontent.com/116356234/232474431-e0c39a2e-4651-4d14-91d1-a893f5c795f4.png)
+
+![변수연산자제어문8-2](https://user-images.githubusercontent.com/116356234/232474429-aa3fb8ba-c674-48cd-a724-416a48e6e9e7.png)
+
+</div>
+</details>
+
+<details>
+<summary><h3>5️⃣ 조건문(펼쳐보기 🖱️) </h3></summary>
 <div markdown="1">
   
 [→ 조건문 1~10번 소스코드로 이동](https://github.com/homin0203/Java_exam/blob/main/javaExam/src/com/kh/practice/chap01/ControlPractice.java)
@@ -795,296 +1085,6 @@ Fail [출석 회수 부족 (10/20)]
 ##### 결과3
 ![조건문11-3](https://user-images.githubusercontent.com/116356234/232388085-b498cc91-6250-4f70-94fb-67a01b4daaac.png)
   
-</div>
-</details>
-
-<details>
-<summary><h3>5️⃣ 변수&연산자&제어문 종합(펼쳐보기 🖱️) </h3></summary>
-<div markdown="1">
-  
-[→ 변수&연산자&제어문 종합 패키지로 이동](https://github.com/homin0203/Java_exam/tree/main/Homework1_Logic/src/com/kh/hw)
-
-### 문제 안내
-- 프로젝트 명 : Homework1_Logic
-- 기능 실행 클래스 : com.kh.hw.run.Run
-- 기능 제공 클래스 : package가 다름 (import 사용)
-  - 메뉴 제공 클래스 : com.kh.hw.view.Menu
-  - 기능 제공 클래스 : com.kh.hw.controller.Function
-- Run에서 Menu 사용, Menu에서 Function 사용
-- Run클래스에 main()를 구현하여 main()메소드에는 Menu클래스의 displayMenu()메소드 실행
-  
-#### 문제1
-클래스 명 : com.kh.hw.view.Menu
-  
-메소드 명 : public void displayMenu(){}
-  
-1. displayMenu() 메소드에 메뉴 화면이 반복 출력되게 함
-  
-2. 메뉴 번호를 입력 받아 해당 번호의 기능이 실행되게 함
-  
-3. 메뉴 1~8번까지의 실행용 메소드는 Function클래스의 메소드 호출
-  
-4. 9번 입력 시 “종료합니다.” 출력 후 종료
-  
-5. 잘 못 입력 했을 시 “잘못 입력하셨습니다. 다시 입력해주세요.” 출력
-
-#### 예시
-![변수연산자제어문1예시](https://user-images.githubusercontent.com/116356234/232472293-371f57b6-e3f2-4240-9f59-d29b82d8aa0a.png)
-
-#### 내 코드 실행
-##### 코드
-![변수연산자제어문9](https://user-images.githubusercontent.com/116356234/232474427-20579c12-d91f-4ea9-b61b-32f0d51471f2.png)
-  
-##### 결과1
-![변수연산자제어문9-1](https://user-images.githubusercontent.com/116356234/232474421-4a7ba062-7f78-4c80-9eea-3564866c8db5.png)
-  
-##### 결과2
-![변수연산자제어문9-2](https://user-images.githubusercontent.com/116356234/232474420-1d6925f0-b62d-4c3a-8c57-91d6ee63b3ff.png)
-  
-##### 결과2
-![변수연산자제어문9-3](https://user-images.githubusercontent.com/116356234/232474415-5fd575f2-2b0c-42ce-a3fa-222a530e9834.png)
-
-<hr>
-
-#### 문제2
-클래스 명 : com.kh.hw.controller.Function
-  
-메뉴에서 실행시킬 메소드들을 모두 작성
-
-이후 나오는 모든 메소드들은 com.kh.hw.controller.Function 클래스 안에 있는 메소드들임
-
-<hr>
-
-#### 문제3
-메소드 명 : public void calculator(){}
-  
-정수 두 개와 연산자 하나를 키보드로 입력 받아 두 정수는 int변수에, 연산문자는 char에 저장
-  
-연산문자가 +이면 두 정수의 합 계산, -이면 두 정수의 차 계산, x 또는 X이면 두 정수의 곱,
-  
-/이면 두 정수의 나누기 몫이나 나누는 수(두 번째 수)가 0이면 “0으로 나눌 수 없습니다.” 출력하고
-  
-결과 값은 0으로 처리
-
-#### 예시
-첫 번째 정수 : 5
-  
-두 번째 정수 : 0
-  
-연산자(+, -, x, /) : /
-  
-0으로 나눌 수 없습니다.
-  
-5 / 0 = 0
-
-#### 내 코드 실행
-##### 코드
-![변수연산자제어문1](https://user-images.githubusercontent.com/116356234/232474458-6a1a386d-a8ed-442a-8ab1-76e2e866afd7.png)
-  
-##### 결과
-![변수연산자제어문1-1](https://user-images.githubusercontent.com/116356234/232474460-fa5db191-8129-4404-ab4e-928b8183b5fe.png)
-  
-<hr>
-
-#### 문제4
-메소드 명 : public void totalCalculator(){}
-  
-키보드로 정수 두 개를 입력 받아 두 정수 중 작은 값을 시작 값으로 큰 값을 종료 값으로 사용
-  
-작은 값에서 큰 값까지 정수 합계를 구함
-
-#### 예시
-첫 번째 정수 : 3
-  
-두 번째 정수 : 1
-  
-1부터 3까지 정수들의 합 : 6
-
-#### 내 코드 실행
-![변수연산자제어문2](https://user-images.githubusercontent.com/116356234/232474454-31e00b5a-9d08-4089-a4f6-0dba4ada9a78.png)
-  
-<hr>
-
-#### 문제5
-메소드 명 : public void printProfile(){}
-  
-신상 정보들을 자료형에 맞춰 변수에 기록하고 변수에 기록된 값 출력
-
-#### 예시
-이름 : 박신우
-  
-나이 : 33
-  
-성별 : 여자
-  
-성격 : 소심
-  
-이름 : 박신우
-  
-나이 : 33
-  
-성별 : 여자
-  
-성격 : 소심
-
-#### 내 코드 실행
-![변수연산자제어문33](https://user-images.githubusercontent.com/116356234/232474452-15ba832b-f752-4152-b130-9141e0941e04.png)
-  
-<hr>
-
-#### 문제6
-메소드 명 : public void printScore(){}
-  
-키보드로 입력 받은 값들을 변수에 기록하여 변수 값을 화면에 출력
-  
-점수가 90점 이상이면 A학점, 80이상 90미만이면 B, 70이상 80미만이면 C,
-  
-60이상 70미만 D, 60미만 F학점을 매김
-  
-#### 예시
-이름 : 박신우
-  
-학년 : 3
-  
-반 : 3
-  
-번 : 15
-  
-성별(M/F) : F
-  
-성적 : 89.75
-  
-3학년 3반 15번 여학생 박신우의 점수는 89.75이고 B학점입니다.
-
-#### 내 코드 실행
-![변수연산자제어문4](https://user-images.githubusercontent.com/116356234/232474449-c0d9c097-47e5-409d-aed9-25893e4216e5.png)
-  
-<hr>
-
-#### 문제7
-메소드 명 : public void printStarNumber(){}
-  
-정수를 하나 입력 받아 그 수가 양수일 때만 입력된 수를 줄 수로 적용하여 아래와 같이 출력
-  
-#### 예시1
-정수 : 5 
-  
-1 
-  
-\*2
-  
-\**3
-  
-\***4
-  
-\****5
-  
-#### 예시2
-정수 : -5
-  
-양수가 아닙니다.
-  
-#### 내 코드 실행
-##### 코드
-![변수연산자제어문5](https://user-images.githubusercontent.com/116356234/232474444-49084846-be8b-4bb3-b07b-5cc1efebf8dc.png)
-  
-##### 결과1
-![변수연산자제어문5-1](https://user-images.githubusercontent.com/116356234/232474441-a7f8a37d-654d-4e9e-a159-abe59e0a8404.png)
-  
-##### 결과2
-![변수연산자제어문5-2](https://user-images.githubusercontent.com/116356234/232474440-35ebd13e-98c0-41a7-90b3-33995c86f00c.png)
-  
-<hr>
-
-#### 문제8
-메소드 명 : public void sumRandom(){}
-  
-1부터 100 사이의 정수 중 임의의 정수를 하나 발생시켜 1부터 랜덤 수까지의 합계 출력
-  
-#### 예시
-1부터 70까지의 합 : 2485
-  
-#### 내 코드 실행
-![변수연산자제어문6](https://user-images.githubusercontent.com/116356234/232474438-75d2f81c-3a9d-49e1-944e-46a34b93707c.png)
-  
-<hr>
-
-#### 문제9
-메소드 명 : public void exceptGugu(){}
-  
-정수를 하나 입력 받아 그 수가 양수일 때만 그 수의 구구단 출력
-  
-단 곱하기 수가 입력 받은 단의 배수일 경우 출력 제외
-
-#### 예시
-정수 : 3
-  
-3 * 1 = 3
-  
-3 * 2 = 6
-  
-3 * 4 = 12
-  
-3 * 5 = 15
-  
-3 * 7 = 21
-  
-3 * 8 = 24
-
-#### 내 코드 실행
-![변수연산자제어문7](https://user-images.githubusercontent.com/116356234/232474435-5b905781-5efc-4b5e-a43b-889df3b287d9.png)
-
-<hr>
-
-#### 문제10
-메소드 명 : public void diceGame(){}
-  
-두 개의 주사위가 만들어낼 수 있는 모든 경우의 수를 랜덤으로 정하고
-  
-랜덤으로 정해진 두 주사위 눈의 합이 입력된 수와 같은 경우 “맞췄습니다“ 출력,
-  
-입력 값과 다르면 “틀렸습니다“ 출력하여 맞출 때까지 반복
-  
-값을 맞추면 “계속 하시겠습니까? (y/n) : “가 출력되고
-  
-‘y’ 또는 ‘Y’ 입력 시 새로운 랜덤 수가 정해지고 처음부터 다시 시작, ‘n’ 또는 ‘N’ 입력 시 종료
-
-#### 예시
-주사위 두 개의 합을 맞춰보세요(1~12입력) : 5
-  
-정답입니다.
-  
-주사위의 합 : 5
-  
-계속 하시겠습니까?(y/n) : y
-  
-주사위 두 개의 합을 맞춰보세요(1~12입력) : 12
-  
-틀렸습니다.
-  
-주사위 두 개의 합을 맞춰보세요(1~12입력) : 8
-  
-틀렸습니다.
-  
-주사위 두 개의 합을 맞춰보세요(1~12입력) : 9
-  
-정답입니다.
-  
-주사위의 합 : 9
-  
-계속 하시겠습니까?(y/n) : n
-  
-종료합니다.
-
-#### 내 코드 실행
-##### 코드
-![변수연산자제어문8](https://user-images.githubusercontent.com/116356234/232474432-794c4403-86b9-478e-b73b-4044e9a17eb6.png)
-
-##### 결과
-![변수연산자제어문8-1](https://user-images.githubusercontent.com/116356234/232474431-e0c39a2e-4651-4d14-91d1-a893f5c795f4.png)
-
-![변수연산자제어문8-2](https://user-images.githubusercontent.com/116356234/232474429-aa3fb8ba-c674-48cd-a724-416a48e6e9e7.png)
-
 </div>
 </details>
 
