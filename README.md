@@ -113,3 +113,75 @@ Class Name : com.kh.practice1.func.VariablePractice4
 
 </div>
 </details>
+
+<details>
+<summary><h3>:two: 형변환(펼쳐보기 🖱️) </h3></summary>
+<div markdown="1">
+  
+<br>
+
+#### 문제1
+Class Name : com.kh.practice2.func.CastingPractice1
+  
+실행 클래스 : com.kh.practice2.run.Run
+
+키보드로 문자 하나를 입력 받아 그 문자의 유니코드를 출력하세요.
+
+#### 예시
+문자 : A
+
+A unicode : 65
+
+#### 내 코드
+![형변환1](https://user-images.githubusercontent.com/116356234/232371311-26d22cdd-b54f-4f2b-9577-96adccb074bb.png)
+
+[→ 업로드 소스코드 보기](https://github.com/homin0203/Java_exam/blob/main/javaExam/src/com/kh/practice2/func/CastingPractice1.java)
+
+<hr>
+
+#### 문제2
+Class Name : com.kh.practice2.func.CastingPractice2
+  
+실행 클래스 : com.kh.practice2.run.Run
+
+실수형으로 국어, 영어, 수학 세 과목의 점수를 입력 받아 총점과 평균을 출력하세요.
+  
+이 때 총점과 평균은 정수형으로 처리하세요.
+
+#### 예시
+국어 : 90.0
+  
+영어 : 90.0
+  
+수학 : 90.0
+  
+<br>
+
+총점 : 270
+  
+평균 : 90
+
+#### 내 코드
+![형변환2](https://user-images.githubusercontent.com/116356234/232371314-53e01b6a-fe7c-4b76-b122-32940e7bcaaa.png)
+  
+[→ 업로드 소스코드 보기](https://github.com/homin0203/Java_exam/blob/main/javaExam/src/com/kh/practice2/func/CastingPractice2.java)
+
+<hr>
+
+#### 문제3
+Class Name : com.kh.practice2.func.CastingPractice3
+
+실행 클래스 : com.kh.practice2.run.Run
+
+선언 및 초기화된 5개의 변수를 가지고 알맞은 사칙연산(+, -, *, /)과 형변환을 이용하여 주석에 적힌 값과 같은 값이 나오도록 코드를 작성하세요.
+
+#### 예시
+![형변환3문제](https://user-images.githubusercontent.com/116356234/232371666-0647dacd-745c-44d8-ad70-a4ee7d1cda91.png)
+
+#### 내 코드
+![형변환3](https://user-images.githubusercontent.com/116356234/232371319-e4c0cc14-9cb6-46ff-a7ca-875ce92fdb4c.png)
+
+[→ 업로드 소스코드 보기](https://github.com/homin0203/Java_exam/blob/main/javaExam/src/com/kh/practice2/func/CastingPractice3.java)
+
+</div>
+</details>
