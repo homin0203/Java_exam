@@ -804,6 +804,7 @@ Fail [출석 회수 부족 (10/20)]
   
 [→ 변수&연산자&제어문 종합 패키지로 이동](https://github.com/homin0203/Java_exam/tree/main/Homework1_Logic/src/com/kh/hw)
 
+### 문제 안내
 - 프로젝트 명 : Homework1_Logic
 - 기능 실행 클래스 : com.kh.hw.run.Run
 - 기능 제공 클래스 : package가 다름 (import 사용)
@@ -841,12 +842,6 @@ Fail [출석 회수 부족 (10/20)]
 메뉴에서 실행시킬 메소드들을 모두 작성
 
 이후 나오는 모든 메소드들은 com.kh.hw.controller.Function 클래스 안에 있는 메소드들임
-
-#### 예시
-
-
-#### 내 코드 실행
-
 
 <hr>
 
