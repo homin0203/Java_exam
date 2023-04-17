@@ -5,7 +5,7 @@
 <summary><h3>1️⃣ 변수(펼쳐보기 🖱️) </h3></summary>
 <div markdown="1">
   
-[→ 변수 소스코드로 ](https://github.com/homin0203/Java_exam/blob/main/javaExam/src/com/kh/practice1/func)  
+[→ 변수 소스코드로 이동](https://github.com/homin0203/Java_exam/blob/main/javaExam/src/com/kh/practice1/func)  
   
 #### 문제1
 Class Name : com.kh.practice1.func.VariablePractice1
@@ -409,8 +409,10 @@ C사원 연봉/연봉+a : 2600/2989.9999999999995
 <summary><h3>4️⃣ 조건문(펼쳐보기 🖱️) </h3></summary>
 <div markdown="1">
   
-[→ 조건문 소스코드로 이동](https://github.com/homin0203/Java_exam/blob/main/javaExam/src/com/kh/practice/chap01/ControlPractice.java)
-
+[→ 조건문 1~10번 소스코드로 이동](https://github.com/homin0203/Java_exam/blob/main/javaExam/src/com/kh/practice/chap01/ControlPractice.java)
+  
+[→ 조건문 11번 소스코드로 이동](https://github.com/homin0203/Java_exam/blob/main/javaExam/src/com/kh/practice/chap01/hard/ControlPractice.java)
+  
 #### 문제1
 메소드 명 : public void practice1(){}
   
@@ -751,6 +753,45 @@ Fail [출석 회수 부족 (10/20)]
 ##### 실행 결과3
   
 <img src="https://user-images.githubusercontent.com/116356234/232375189-118e59a9-9c34-4466-8fa1-b5ad8a561641.png" width="150">
+  
+<hr>
+
+#### 문제11
+메소드 명 : public void practice11(){}
+
+정수를 이용해서 4자리 비밀번호를 만들려고 하는데
+  
+이 때 4자리 정수를 입력 받아 각 자리 수에 중복되는 값이 없을 경우 ‘생성 성공’, 
+
+중복 값이 있으면 ‘중복 값 있음‘, 자리수가 안 맞으면 ‘자리 수 안 맞음‘ 출력
+  
+단, 제일 앞자리 수의 값은 1~9 사이 정수
+
+#### 예시
+비밀번호 입력(1000~9999) : 56555 
+  
+자리수 안맞음 
+  
+  <br>
+  
+비밀번호 입력(1000~9999) : 1234
+  
+성공
+  
+  <br>
+  
+비밀번호 입력(1000~9999) : 5685
+  
+실패
+
+#### 내 코드
+![조건문11](https://user-images.githubusercontent.com/116356234/232388075-8e502767-d588-4a7f-9969-68904634ab30.png)
+  
+##### 실행 결과2
+![조건문11-2](https://user-images.githubusercontent.com/116356234/232388082-5b09305b-244b-45ab-9d37-901eb37e2d96.png)
+  
+##### 실행 결과3
+![조건문11-3](https://user-images.githubusercontent.com/116356234/232388085-b498cc91-6250-4f70-94fb-67a01b4daaac.png)
   
 </div>
 </details>
