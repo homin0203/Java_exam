@@ -2264,17 +2264,13 @@ String 2차원 배열 6행 6열을 만들고 행의 맨 위와 열의 맨 앞은
 
 <br>
 
-## 객체 ~ 예외
-
-<details>
-<summary><h3>1️⃣ OOP(펼쳐보기 🖱️) </h3></summary>
-<div markdown="1">
+## OOP
   
 <details>
-<summary><h3>✅ 실습문제1(펼쳐보기 🖱️) </h3></summary>
+<summary><h3>1️⃣ OOP 실습문제(펼쳐보기 🖱️) </h3></summary>
 <div markdown="1">
 
-[→ OOP 실습문제1 패키지로 이동](https://github.com/homin0203/Java_exam/tree/main/06_ObjectOrientedProgramming/src/com/kh/practice/snack)  
+[→ OOP 실습문제 패키지로 이동](https://github.com/homin0203/Java_exam/tree/main/06_ObjectOrientedProgramming/src/com/kh/practice/snack)  
   
 ![7_OOP실습문제_1 (2)](https://user-images.githubusercontent.com/116356234/232498330-c836c4b6-708f-4518-9797-168397004da6.png)
 
@@ -2282,7 +2278,7 @@ String 2차원 배열 6행 6열을 만들고 행의 맨 위와 열의 맨 앞은
 
 ![7_OOP실습문제_3 (2)](https://user-images.githubusercontent.com/116356234/232498343-36e47e9f-4f78-40bf-a0de-3b039b077e89.png)
 
-#### 내 코드 실행
+#### 내 코드 실행결과
   
 <img src="https://user-images.githubusercontent.com/116356234/232497885-b474eb10-021f-4d0b-be56-f13445aff270.png" height="200">
   
@@ -2292,7 +2288,7 @@ String 2차원 배열 6행 6열을 만들고 행의 맨 위와 열의 맨 앞은
 </details>
   
 <details>
-<summary><h3>✅ 과제1(펼쳐보기 🖱️) </h3></summary>
+<summary><h3>2️⃣ OOP 과제1(펼쳐보기 🖱️) </h3></summary>
 <div markdown="1">
 
 [→ OOP 과제1 패키지로 이동](https://github.com/homin0203/Java_exam/tree/main/Homework2_OOP/src/com/kh/hw/shape)  
@@ -2326,7 +2322,7 @@ String 2차원 배열 6행 6열을 만들고 행의 맨 위와 열의 맨 앞은
 </details>
   
 <details>
-<summary><h3>✅ 과제2(펼쳐보기 🖱️) </h3></summary>
+<summary><h3>3️⃣ OOP 과제2(펼쳐보기 🖱️) </h3></summary>
 <div markdown="1">
 
 [→ OOP 과제2 패키지로 이동](https://github.com/homin0203/Java_exam/tree/main/Homework2_OOP/src/com/kh/hw/employee)  
@@ -2357,15 +2353,92 @@ String 2차원 배열 6행 6열을 만들고 행의 맨 위와 열의 맨 앞은
   
 </div>
 </details>
+  
+## 객체배열 
+ 
+<details>
+<summary><h3>1️⃣ 객체배열 실습문제(펼쳐보기 🖱️) </h3></summary>
+<div markdown="1">
 
+[→ 객체배열 실습문제 패키지로 이동](https://github.com/homin0203/Java_exam/tree/main/07_objectArray/src/com/kh/practice/student)  
+
+![8_객체배열실습문제_1 (2)](https://user-images.githubusercontent.com/116356234/232504724-54496290-9f75-4d9d-acec-0faea276948c.png)
+  
+![8_객체배열실습문제_2 (2)](https://user-images.githubusercontent.com/116356234/232504711-a748ee9c-f835-40b5-a115-3843961dad53.png)
+  
+![8_객체배열실습문제_3 (2)](https://user-images.githubusercontent.com/116356234/232504718-a8236200-d1d5-493c-90fc-2ace1cb0fd1f.png)
+  
+![8_객체배열실습문제_4 (2)](https://user-images.githubusercontent.com/116356234/232504720-a2640f7b-d8c5-478a-8346-156ecf32c9ad.png)
+
+#### 내 코드 실행결과
+![실습문제1](https://user-images.githubusercontent.com/116356234/232506720-4330e20a-a956-433b-bb2c-39a21cfc4277.png)
+  
+</div>
+</details>
+  
+<details>
+<summary><h3>2️⃣ 객체배열 과제(펼쳐보기 🖱️) </h3></summary>
+<div markdown="1">
+
+[→ 객체배열 과제 패키지로 이동](https://github.com/homin0203/Java_exam/tree/main/07_objectArray/src/com/kh/hw/member/model)
+  
+![8_객체배열과제_1 (2)](https://user-images.githubusercontent.com/116356234/232507099-1fe3ac65-5bba-4718-9743-d4e675721086.png)
+  
+![8_객체배열과제_2 (2)](https://user-images.githubusercontent.com/116356234/232507103-c847f393-d6a2-4e7d-bc8e-1f0e8472c3e6.png)
+  
+![8_객체배열과제_3 (2)](https://user-images.githubusercontent.com/116356234/232507105-8fb91756-ae78-4ce1-a7a9-7f2d80b5ceee.png)
+  
+![8_객체배열과제_4 (2)](https://user-images.githubusercontent.com/116356234/232507110-f0470076-4a80-4c9a-99fb-4bf56467259f.png)
+  
+![8_객체배열과제_5 (2)](https://user-images.githubusercontent.com/116356234/232507113-40a40a1a-9184-4c6a-8868-d7089d84e91c.png)
+  
+![8_객체배열과제_6 (2)](https://user-images.githubusercontent.com/116356234/232507114-214addb9-2965-4d26-96b0-c09e26de5113.png)
+  
+![8_객체배열과제_7 (2)](https://user-images.githubusercontent.com/116356234/232507116-6c7243a5-b4f9-4cf1-8e6d-229d93ad80e0.png)
+  
+![8_객체배열과제_8 (2)](https://user-images.githubusercontent.com/116356234/232507118-391e1b85-9758-444c-a9c8-a5f87795847f.png)
+  
+![8_객체배열과제_9 (2)](https://user-images.githubusercontent.com/116356234/232507121-c32eae4f-cb7f-44f0-b502-c8ec5d9ae9f6.png)
+  
+![8_객체배열과제_10 (2)](https://user-images.githubusercontent.com/116356234/232507126-70e7b756-6f00-42f1-ad3d-0fa3bc6e3495.png)
+
+![8_객체배열과제_11 (2)](https://user-images.githubusercontent.com/116356234/232507129-c6a6e59b-85d2-4a2d-8f07-44e14505e530.png)
+  
+![8_객체배열과제_12 (2)](https://user-images.githubusercontent.com/116356234/232507132-70a54116-6c31-419e-b4d3-417b04912f90.png)
+  
+![8_객체배열과제_13 (2)](https://user-images.githubusercontent.com/116356234/232507134-ffaef2c3-53f7-43ab-84c1-9132faf640f9.png)
+  
+![8_객체배열과제_14 (2)](https://user-images.githubusercontent.com/116356234/232507137-11f9c293-1e1c-4e30-b79b-e3f3900d831d.png)
+  
+![8_객체배열과제_15 (2)](https://user-images.githubusercontent.com/116356234/232507144-ff75ad67-32e3-4081-bd1b-cf47598edacd.png)
+  
+![8_객체배열과제_16 (2)](https://user-images.githubusercontent.com/116356234/232507148-3790dcd3-c97c-4978-8f37-681385e286ca.png)
+  
+![8_객체배열과제_17 (2)](https://user-images.githubusercontent.com/116356234/232507152-5d07ae36-b242-4fa3-8cdd-733e8cc33537.png)
+  
+![8_객체배열과제_18 (2)](https://user-images.githubusercontent.com/116356234/232507155-951997ff-e7c2-4e25-aecb-910c1a793cc8.png)
+  
+![8_객체배열과제_19 (2)](https://user-images.githubusercontent.com/116356234/232507158-b3dfb661-bbf3-4fe3-8419-fe805e41da36.png)
+  
+![8_객체배열과제_20 (2)](https://user-images.githubusercontent.com/116356234/232507159-6f5e73af-7c99-46eb-befa-d09fed86c31f.png)
+
+#### 내 코드 실행결과
+![과제1](https://user-images.githubusercontent.com/116356234/232508116-476338f0-2557-4fb2-b716-94920c80ab7f.png)
+  
+![과제2](https://user-images.githubusercontent.com/116356234/232508123-9b735b06-94c1-48d1-961c-66e963eb785b.png)
+  
+![과제3](https://user-images.githubusercontent.com/116356234/232508127-db782d8a-2c6d-4153-9873-0f6789de3a58.png)
+  
 </div>
 </details>
 
 
 
 
-
-
+  
+  
+  
+  
 
 <details>
 <summary><h3>:three: 템플릿(펼쳐보기 🖱️) </h3></summary>
