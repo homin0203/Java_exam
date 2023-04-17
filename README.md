@@ -1,6 +1,8 @@
 # 프로그래밍 언어 활용 및 응용
 - 프로그래밍 언어 활용 및 응용 교육과목 실습문제 및 과제 기록
 
+## 변수 ~ 2차원 배열
+
 <details>
 <summary><h3>1️⃣ 변수(펼쳐보기 🖱️) </h3></summary>
 <div markdown="1">
@@ -406,7 +408,7 @@ C사원 연봉/연봉+a : 2600/2989.9999999999995
 </details>
 
 <details>
-<summary><h3>4️⃣ 변수&연산자&제어문 종합(펼쳐보기 🖱️) </h3></summary>
+<summary><h3>4️⃣ 변수 & 연산자 & 제어문 종합(펼쳐보기 🖱️) </h3></summary>
 <div markdown="1">
   
 [→ 변수&연산자&제어문 종합 패키지로 이동](https://github.com/homin0203/Java_exam/tree/main/Homework1_Logic/src/com/kh/hw)
@@ -1436,7 +1438,7 @@ Fail [출석 회수 부족 (10/20)]
 </details>
 
 <details>
-<summary><h3>7️⃣ 조건문&반복문 종합(펼쳐보기 🖱️) </h3></summary>
+<summary><h3>7️⃣ 조건문 & 반복문 종합(펼쳐보기 🖱️) </h3></summary>
 <div markdown="1">
   
 [→ 조건문&반복문 종합 소스코드로 이동](https://github.com/homin0203/Java_exam/blob/main/javaExam/src/com/kh/practice/chap01/hard/CompExample.java)
@@ -1964,7 +1966,7 @@ i 개수 : 2
 </details>
 
 <details>
-<summary><h3>9️⃣ 2차원배열(펼쳐보기 🖱️) </h3></summary>
+<summary><h3>9️⃣ 2차원 배열(펼쳐보기 🖱️) </h3></summary>
 <div markdown="1">
   
 [→ 2차원배열 소스코드로 이동](https://github.com/homin0203/Java_exam/blob/main/javaExam/src/com/kh/practice/dimension/DimensionPractice.java)
