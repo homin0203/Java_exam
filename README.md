@@ -2231,8 +2231,9 @@ String 2차원 배열 6행 6열을 만들고 행의 맨 위와 열의 맨 앞은
 그리고 사용자에게 행과 열을 입력 받아 해당 좌표의 값을 'X'로 변환해 2차원 배열을 출력하세요.
 
 #### 예시
-![2차원배열10예시](https://user-images.githubusercontent.com/116356234/232492875-ec7c599c-2308-474f-9982-377426dd4fb0.png)
-
+  
+<img src="https://user-images.githubusercontent.com/116356234/232492875-ec7c599c-2308-474f-9982-377426dd4fb0.png" height="200">
+  
 #### 내 코드 실행
 ##### 코드
 ![2차원배열10](https://user-images.githubusercontent.com/116356234/232492072-89b8bc5a-296e-4bb5-a729-b1b1cfdbe4e6.png)
@@ -2248,7 +2249,8 @@ String 2차원 배열 6행 6열을 만들고 행의 맨 위와 열의 맨 앞은
 실습문제10과 내용은 같으나 행 입력 시 99가 입력되지 않으면 무한 반복이 되도록 구현하세요.
 
 #### 예시
-![2차원배열11예시](https://user-images.githubusercontent.com/116356234/232492878-c5b834ee-2d62-4474-a021-901beb29388b.png)
+  
+<img src="https://user-images.githubusercontent.com/116356234/232492878-c5b834ee-2d62-4474-a021-901beb29388b.png" height="200">
 
 #### 내 코드 실행
 ##### 코드
