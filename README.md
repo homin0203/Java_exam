@@ -28,6 +28,8 @@ Class Name : com.kh.practice1.func.VariablePractice1
 #### 내 코드
 ![변수1번](https://user-images.githubusercontent.com/116356234/232367842-4ce5b993-6ea7-41ce-a0e0-5e9d92ccf407.png)
 
+[→ 업로드 소스코드 보기](https://github.com/homin0203/Java_exam/blob/main/javaExam/src/com/kh/practice1/func/VariablePractice1.java)
+
 <hr>
 
 #### 문제2
@@ -55,6 +57,8 @@ Class Name : com.kh.practice1.func.VariablePractice2
 #### 내 코드
 ![변수2](https://user-images.githubusercontent.com/116356234/232367847-d40002ac-1173-400b-ae98-50710d524c90.png)
 
+[→ 업로드 소스코드 보기](https://github.com/homin0203/Java_exam/blob/main/javaExam/src/com/kh/practice1/func/VariablePractice2.java)
+
 <hr>
 
 #### 문제3
@@ -80,6 +84,8 @@ Class Name : com.kh.practice1.func.VariablePractice3
 #### 내 코드
 ![변수3](https://user-images.githubusercontent.com/116356234/232367850-70cf45a3-2a9c-4620-9e06-e954ab49cb07.png)
 
+[→ 업로드 소스코드 보기](https://github.com/homin0203/Java_exam/blob/main/javaExam/src/com/kh/practice1/func/VariablePractice3.java)
+
 <hr>
 
 #### 문제4
@@ -102,6 +108,8 @@ Class Name : com.kh.practice1.func.VariablePractice4
 
 #### 내 코드
 ![변수4](https://user-images.githubusercontent.com/116356234/232367851-bbf856ac-f4ed-4cf5-b483-afa75dde6cee.png)
+
+[→ 업로드 소스코드 보기](https://github.com/homin0203/Java_exam/blob/main/javaExam/src/com/kh/practice1/func/VariablePractice4.java)
 
 </div>
 </details>
