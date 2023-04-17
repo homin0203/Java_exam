@@ -832,7 +832,17 @@ Fail [출석 회수 부족 (10/20)]
 ![변수연산자제어문1예시](https://user-images.githubusercontent.com/116356234/232472293-371f57b6-e3f2-4240-9f59-d29b82d8aa0a.png)
 
 #### 내 코드 실행
-
+##### 코드
+![변수연산자제어문9](https://user-images.githubusercontent.com/116356234/232474427-20579c12-d91f-4ea9-b61b-32f0d51471f2.png)
+  
+##### 결과1
+![변수연산자제어문9-1](https://user-images.githubusercontent.com/116356234/232474421-4a7ba062-7f78-4c80-9eea-3564866c8db5.png)
+  
+##### 결과2
+![변수연산자제어문9-2](https://user-images.githubusercontent.com/116356234/232474420-1d6925f0-b62d-4c3a-8c57-91d6ee63b3ff.png)
+  
+##### 결과2
+![변수연산자제어문9-3](https://user-images.githubusercontent.com/116356234/232474415-5fd575f2-2b0c-42ce-a3fa-222a530e9834.png)
 
 <hr>
 
@@ -868,7 +878,11 @@ Fail [출석 회수 부족 (10/20)]
 5 / 0 = 0
 
 #### 내 코드 실행
-
+##### 코드
+![변수연산자제어문1](https://user-images.githubusercontent.com/116356234/232474458-6a1a386d-a8ed-442a-8ab1-76e2e866afd7.png)
+  
+##### 결과
+![변수연산자제어문1-1](https://user-images.githubusercontent.com/116356234/232474460-fa5db191-8129-4404-ab4e-928b8183b5fe.png)
   
 <hr>
 
@@ -887,7 +901,7 @@ Fail [출석 회수 부족 (10/20)]
 1부터 3까지 정수들의 합 : 6
 
 #### 내 코드 실행
-
+![변수연산자제어문2](https://user-images.githubusercontent.com/116356234/232474454-31e00b5a-9d08-4089-a4f6-0dba4ada9a78.png)
   
 <hr>
 
@@ -914,7 +928,7 @@ Fail [출석 회수 부족 (10/20)]
 성격 : 소심
 
 #### 내 코드 실행
-
+![변수연산자제어문33](https://user-images.githubusercontent.com/116356234/232474452-15ba832b-f752-4152-b130-9141e0941e04.png)
   
 <hr>
 
@@ -943,6 +957,7 @@ Fail [출석 회수 부족 (10/20)]
 3학년 3반 15번 여학생 박신우의 점수는 89.75이고 B학점입니다.
 
 #### 내 코드 실행
+![변수연산자제어문4](https://user-images.githubusercontent.com/116356234/232474449-c0d9c097-47e5-409d-aed9-25893e4216e5.png)
   
 <hr>
 
@@ -970,6 +985,14 @@ Fail [출석 회수 부족 (10/20)]
 양수가 아닙니다.
   
 #### 내 코드 실행
+##### 코드
+![변수연산자제어문5](https://user-images.githubusercontent.com/116356234/232474444-49084846-be8b-4bb3-b07b-5cc1efebf8dc.png)
+  
+##### 결과1
+![변수연산자제어문5-1](https://user-images.githubusercontent.com/116356234/232474441-a7f8a37d-654d-4e9e-a159-abe59e0a8404.png)
+  
+##### 결과2
+![변수연산자제어문5-2](https://user-images.githubusercontent.com/116356234/232474440-35ebd13e-98c0-41a7-90b3-33995c86f00c.png)
   
 <hr>
 
@@ -982,6 +1005,7 @@ Fail [출석 회수 부족 (10/20)]
 1부터 70까지의 합 : 2485
   
 #### 내 코드 실행
+![변수연산자제어문6](https://user-images.githubusercontent.com/116356234/232474438-75d2f81c-3a9d-49e1-944e-46a34b93707c.png)
   
 <hr>
 
@@ -1008,6 +1032,7 @@ Fail [출석 회수 부족 (10/20)]
 3 * 8 = 24
 
 #### 내 코드 실행
+![변수연산자제어문7](https://user-images.githubusercontent.com/116356234/232474435-5b905781-5efc-4b5e-a43b-889df3b287d9.png)
 
 <hr>
 
@@ -1052,6 +1077,13 @@ Fail [출석 회수 부족 (10/20)]
 종료합니다.
 
 #### 내 코드 실행
+##### 코드
+![변수연산자제어문8](https://user-images.githubusercontent.com/116356234/232474432-794c4403-86b9-478e-b73b-4044e9a17eb6.png)
+
+##### 결과
+![변수연산자제어문8-1](https://user-images.githubusercontent.com/116356234/232474431-e0c39a2e-4651-4d14-91d1-a893f5c795f4.png)
+
+![변수연산자제어문8-2](https://user-images.githubusercontent.com/116356234/232474429-aa3fb8ba-c674-48cd-a724-416a48e6e9e7.png)
 
 </div>
 </details>
