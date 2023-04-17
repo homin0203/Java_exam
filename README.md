@@ -1,9 +1,13 @@
 # 프로그래밍 언어 활용 및 응용
 - 프로그래밍 언어 활용 및 응용 교육과목 실습문제 및 과제 기록
 
-<details>
-<summary><h3>:one: 변수(펼쳐보기 🖱️) </h3></summary>
-<div markdown="1">
+1. [변수](#1️⃣-변수) 
+2. [형변환](#2️⃣-형변환)
+3. [연산자](#3️⃣-연산자)
+4. [조건문](#4️⃣-조건문)
+5. [반복문](#5️⃣-반복문)
+
+## 1️⃣ 변수
   
 [→ 변수 소스코드로 ](https://github.com/homin0203/Java_exam/blob/main/javaExam/src/com/kh/practice1/func)  
   
@@ -103,12 +107,9 @@ Class Name : com.kh.practice1.func.VariablePractice4
 #### 내 코드
 ![변수4](https://user-images.githubusercontent.com/116356234/232367851-bbf856ac-f4ed-4cf5-b483-afa75dde6cee.png)
 
-</div>
-</details>
+<br>
 
-<details>
-<summary><h3>:two: 형변환(펼쳐보기 🖱️) </h3></summary>
-<div markdown="1">
+## 2️⃣ 형변환
   
 [→ 형변환 소스코드로 이동](https://github.com/homin0203/Java_exam/blob/main/javaExam/src/com/kh/practice2/func)
 
@@ -169,12 +170,9 @@ Class Name : com.kh.practice2.func.CastingPractice3
 #### 내 코드
 ![형변환3](https://user-images.githubusercontent.com/116356234/232371319-e4c0cc14-9cb6-46ff-a7ca-875ce92fdb4c.png)
 
-</div>
-</details>
+<br>
 
-<details>
-<summary><h3>:three: 연산자(펼쳐보기 🖱️) </h3></summary>
-<div markdown="1">
+## 3️⃣ 연산자
   
 [→ 연산자 소스코드로 이동](https://github.com/homin0203/Java_exam/blob/main/javaExam/src/com/kh/practice/func/OperatorPractice.java)
 
@@ -401,13 +399,10 @@ C사원 연봉/연봉+a : 2600/2989.9999999999995
 
 #### 내 코드
 ![연산자11](https://user-images.githubusercontent.com/116356234/232373050-406def40-205e-425f-acd9-8a3d0184ae5f.png)
-  
-</div>
-</details>
 
-<details>
-<summary><h3>:four: 조건문(펼쳐보기 🖱️) </h3></summary>
-<div markdown="1">
+<br>
+
+## 4️⃣ 조건문
   
 [→ 조건문 소스코드로 이동](https://github.com/homin0203/Java_exam/blob/main/javaExam/src/com/kh/practice/chap01/ControlPractice.java)
 
@@ -751,9 +746,120 @@ Fail [출석 회수 부족 (10/20)]
 ##### 실행 결과3
   
 <img src="https://user-images.githubusercontent.com/116356234/232375189-118e59a9-9c34-4466-8fa1-b5ad8a561641.png" width="150">
+
+<br>
+
+## 5️⃣ 반복문
   
-</div>
-</details>
+[→ 반복문 소스코드로 이동](https://github.com/homin0203/Java_exam/blob/main/javaExam/src/com/kh/practice/chap02/LoopPractice.java)
+
+#### 문제1
+
+
+#### 예시
+
+
+#### 내 코드
+
+
+<hr>
+
+#### 문제2
+
+
+#### 예시
+
+
+#### 내 코드
+
+
+<hr>
+
+#### 문제3
+
+
+#### 예시
+
+
+#### 내 코드
+
+  
+<hr>
+
+#### 문제4
+
+
+#### 예시
+
+
+#### 내 코드
+
+  
+<hr>
+
+#### 문제5
+
+
+#### 예시
+
+
+#### 내 코드
+
+  
+<hr>
+
+#### 문제6
+
+
+#### 예시
+
+
+#### 내 코드
+  
+<hr>
+
+#### 문제7
+
+#### 예시
+
+#### 내 코드
+  
+<hr>
+
+#### 문제8
+
+#### 예시
+  
+#### 내 코드
+  
+<hr>
+
+#### 문제9
+
+
+#### 예시
+
+#### 내 코드
+
+<hr>
+
+#### 문제10
+
+
+#### 예시
+
+
+#### 내 코드
+
+  
+<hr>
+
+#### 문제11
+
+
+#### 예시
+
+#### 내 코드
 
 
 
