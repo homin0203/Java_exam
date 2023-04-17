@@ -2262,9 +2262,103 @@ String 2차원 배열 6행 6열을 만들고 행의 맨 위와 열의 맨 앞은
 </div>
 </details>
 
+<br>
 
+## 객체 ~ 예외
 
+<details>
+<summary><h3>1️⃣ OOP(펼쳐보기 🖱️) </h3></summary>
+<div markdown="1">
+  
+<details>
+<summary><h3>✅ 실습문제1(펼쳐보기 🖱️) </h3></summary>
+<div markdown="1">
 
+[→ OOP 실습문제1 패키지로 이동](https://github.com/homin0203/Java_exam/tree/main/06_ObjectOrientedProgramming/src/com/kh/practice/snack)  
+  
+![7_OOP실습문제_1 (2)](https://user-images.githubusercontent.com/116356234/232498330-c836c4b6-708f-4518-9797-168397004da6.png)
+
+![7_OOP실습문제_2 (2)](https://user-images.githubusercontent.com/116356234/232498340-80c4c7c3-ee91-4c84-95fb-5aea8484d513.png)
+
+![7_OOP실습문제_3 (2)](https://user-images.githubusercontent.com/116356234/232498343-36e47e9f-4f78-40bf-a0de-3b039b077e89.png)
+
+#### 내 코드 실행
+  
+<img src="https://user-images.githubusercontent.com/116356234/232497885-b474eb10-021f-4d0b-be56-f13445aff270.png" height="200">
+  
+<img src="https://user-images.githubusercontent.com/116356234/232497880-939c9d25-9635-435d-97ff-aee199712301.png" height="200">
+  
+</div>
+</details>
+  
+<details>
+<summary><h3>✅ 과제1(펼쳐보기 🖱️) </h3></summary>
+<div markdown="1">
+
+[→ OOP 과제1 패키지로 이동](https://github.com/homin0203/Java_exam/tree/main/Homework2_OOP/src/com/kh/hw/shape)  
+  
+![7_OOP과제_1 (2)](https://user-images.githubusercontent.com/116356234/232500164-8b08c82a-83e0-4e06-9ef1-afbfa2d802e0.png)
+  
+![7_OOP과제_2 (2)](https://user-images.githubusercontent.com/116356234/232500174-c7551fec-2c7d-445f-975b-d531a24b42c5.png)
+  
+![7_OOP과제_3 (2)](https://user-images.githubusercontent.com/116356234/232500181-87d23a62-4512-4ba1-a497-750c959e0b02.png)
+  
+![7_OOP과제_4 (2)](https://user-images.githubusercontent.com/116356234/232500184-7cdaa531-e016-45fe-9006-baf35cb5780e.png)
+  
+![7_OOP과제_5 (2)](https://user-images.githubusercontent.com/116356234/232500186-7edfe6e4-2c07-4cc0-b64d-c0db27b15124.png)
+  
+![7_OOP과제_6 (2)](https://user-images.githubusercontent.com/116356234/232500188-2a459d92-f108-41bb-a8b2-6ef9f8b2cc23.png)
+  
+![7_OOP과제_7 (2)](https://user-images.githubusercontent.com/116356234/232500190-d3bc3d62-88a3-4509-99ae-d7c535de0cac.png)
+  
+![7_OOP과제_8 (2)](https://user-images.githubusercontent.com/116356234/232500194-4a9f9391-46fc-4a33-852e-37f867e890c8.png)
+  
+![7_OOP과제_9 (2)](https://user-images.githubusercontent.com/116356234/232500196-1173dbe0-08e7-442f-b430-d81e9d2ed817.png)
+
+#### 내 코드 실행결과
+  
+![과제1-1](https://user-images.githubusercontent.com/116356234/232501448-9cbbb4c8-e895-4193-9af4-50eb5e6aa418.png)
+  
+![과제1-2](https://user-images.githubusercontent.com/116356234/232501454-2ab44b30-23b5-47ff-a30f-23c0da0395c0.png)
+  
+![과제1-3](https://user-images.githubusercontent.com/116356234/232501456-b3ab99e3-966c-480c-af8e-bd9a9d979d4c.png)
+  
+</div>
+</details>
+  
+<details>
+<summary><h3>✅ 과제2(펼쳐보기 🖱️) </h3></summary>
+<div markdown="1">
+
+[→ OOP 과제2 패키지로 이동](https://github.com/homin0203/Java_exam/tree/main/Homework2_OOP/src/com/kh/hw/employee)  
+  
+![7_OOP과제_10 (2)](https://user-images.githubusercontent.com/116356234/232500199-497aa092-198b-4021-a0c0-fb023c2cbe68.png)
+  
+![7_OOP과제_11 (2)](https://user-images.githubusercontent.com/116356234/232500203-067c92bd-2b2d-4e98-8ff1-b2d9455424a6.png)
+  
+![7_OOP과제_12 (2)](https://user-images.githubusercontent.com/116356234/232500207-c502e6fb-eb44-4608-8202-e2f4c1bbe014.png)
+  
+![7_OOP과제_13 (2)](https://user-images.githubusercontent.com/116356234/232500208-832ed503-baa1-47dd-acb2-5d385206b03a.png)
+  
+![7_OOP과제_14 (2)](https://user-images.githubusercontent.com/116356234/232500211-85bebc03-aee6-4c26-adff-6288365abdad.png)
+  
+![7_OOP과제_15 (2)](https://user-images.githubusercontent.com/116356234/232500216-07a1b70f-3ea9-4e07-8bd2-322a43ee5e74.png)
+  
+![7_OOP과제_16 (2)](https://user-images.githubusercontent.com/116356234/232500220-931dcee3-0f68-404c-8dbe-5987811a3288.png)
+  
+![7_OOP과제_17 (2)](https://user-images.githubusercontent.com/116356234/232500221-d17528fc-77df-40d1-b5b5-56e0c1b86d64.png)
+
+#### 내 코드 실행결과
+
+![과제2-1](https://user-images.githubusercontent.com/116356234/232501458-1860aa41-8c1d-4b47-8497-b50cc11a7c25.png)
+![과제2-2](https://user-images.githubusercontent.com/116356234/232501462-65b17f3d-761c-4c64-af86-78148c8f03db.png)
+![과제2-3](https://user-images.githubusercontent.com/116356234/232501463-75873bba-d64a-4397-aa3c-cbf117f40c69.png)
+  
+</div>
+</details>
+
+</div>
+</details>
 
 
 
