@@ -2,7 +2,7 @@
 - 프로그래밍 언어 활용 및 응용 교육과목 실습문제 및 과제 기록
 
 <details>
-<summary><h3>:one: 변수 </h3></summary>
+<summary><h3>:one: 변수(펼쳐보기 🖱️) </h3></summary>
 <div markdown="1">
   
 <br>
