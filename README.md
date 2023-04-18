@@ -2435,7 +2435,7 @@ String 2차원 배열 6행 6열을 만들고 행의 맨 위와 열의 맨 앞은
 ## 상속
 
 <details>
-<summary><h3>2️⃣ 상속 실습문제(펼쳐보기 🖱️) </h3></summary>
+<summary><h3>1️⃣ 상속 실습문제(펼쳐보기 🖱️) </h3></summary>
 <div markdown="1">
 
 [→ 상속 실습문제 패키지로 이동](https://github.com/homin0203/Java_exam/tree/main/08_Inheritance/src/com/kh/practice/point)
@@ -2453,10 +2453,41 @@ String 2차원 배열 6행 6열을 만들고 행의 맨 위와 열의 맨 앞은
 ![9_상속실습문제_단위변환_6 (2)](https://user-images.githubusercontent.com/116356234/232704359-485a8537-b65f-43dc-a754-e8177557ed95.png)
 
 #### 내 코드 실행결과
-
 ![실습문제1](https://user-images.githubusercontent.com/116356234/232704926-dc1e358d-6989-4500-a5d3-909478a7a028.png)
 
 ![실습문제2](https://user-images.githubusercontent.com/116356234/232704920-4b1949c1-9184-40d7-9d84-0a3784d1e441.png)
+  
+</div>
+</details>
+  
+<details>
+<summary><h3>2️⃣ 상속 과제(펼쳐보기 🖱️) </h3></summary>
+<div markdown="1">
+
+[→ 상속 과제 패키지로 이동](https://github.com/homin0203/Java_exam/tree/main/08_Inheritance/src/com/kh/hw/person)
+
+![9_상속과제_학생직원관리_1 (2)](https://user-images.githubusercontent.com/116356234/232705896-2a09e16a-4e6d-428f-af7a-9715def8de28.png)
+  
+![9_상속과제_학생직원관리_2 (2)](https://user-images.githubusercontent.com/116356234/232705901-d1513117-3203-4bc7-9f5c-a60780901f13.png)
+  
+![9_상속과제_학생직원관리_3 (2)](https://user-images.githubusercontent.com/116356234/232705904-f4bcfd61-4a34-4453-9c11-fea028f1e7a0.png)
+  
+![9_상속과제_학생직원관리_4 (2)](https://user-images.githubusercontent.com/116356234/232705907-fe6f7095-51e2-4259-bb33-5cf9f6572d0b.png)
+  
+![9_상속과제_학생직원관리_5 (2)](https://user-images.githubusercontent.com/116356234/232705915-69923ffd-d373-48a6-ac35-37c097357d29.png)
+  
+![9_상속과제_학생직원관리_6 (2)](https://user-images.githubusercontent.com/116356234/232705918-a0dfaafc-4009-4760-9692-09253c227ab6.png)
+  
+![9_상속과제_학생직원관리_7 (2)](https://user-images.githubusercontent.com/116356234/232705923-0f9aafd2-5535-489b-864b-1245c5a945fe.png)
+  
+![9_상속과제_학생직원관리_8 (2)](https://user-images.githubusercontent.com/116356234/232705927-3d4991e2-9d0e-458f-b6c6-9d253c606be9.png)
+  
+![9_상속과제_학생직원관리_9 (2)](https://user-images.githubusercontent.com/116356234/232705934-1c2da171-cc8d-4939-b0c6-357890456985.png)  
+
+#### 내 코드 실행결과
+![과제1](https://user-images.githubusercontent.com/116356234/232706141-c607b9a4-2060-40e4-9cf3-eba1a6b1c37c.png)
+
+![과제2](https://user-images.githubusercontent.com/116356234/232706135-637d75a0-abcb-44eb-8132-6a5d206d6191.png)
   
 </div>
 </details>
