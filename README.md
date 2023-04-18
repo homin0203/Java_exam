@@ -2589,6 +2589,7 @@ String 2차원 배열 6행 6열을 만들고 행의 맨 위와 열의 맨 앞은
 ![1_list_Library_8 (2)](https://user-images.githubusercontent.com/116356234/232714013-abe6a9a0-a056-4119-8a9d-3245c1696dde.png)
   
 #### 내 코드 실행결과
+![리스트1-1](https://user-images.githubusercontent.com/116356234/232719394-e487b097-5efd-4ac5-b5dd-3ef4beefc0e5.png)
   
 </div>
 </details>  
@@ -2622,6 +2623,7 @@ String 2차원 배열 6행 6열을 만들고 행의 맨 위와 열의 맨 앞은
 ![1_list_Music_11 (2)](https://user-images.githubusercontent.com/116356234/232714343-b34a35b2-cdd2-4d39-b8b5-436ce1453089.png)
   
 #### 내 코드 실행결과
+![리스트2](https://user-images.githubusercontent.com/116356234/232719402-fb414ef9-01f9-4468-ae2c-f4281c474b75.png)
   
 </div>
 </details>  
@@ -2651,6 +2653,7 @@ String 2차원 배열 6행 6열을 만들고 행의 맨 위와 열의 맨 앞은
 ![2_set_lottery_9 (2)](https://user-images.githubusercontent.com/116356234/232714438-4e73dbd1-4ec8-4ad6-8503-da1b7be13b3f.png)
   
 #### 내 코드 실행결과
+![셋1](https://user-images.githubusercontent.com/116356234/232719421-213f0343-9109-4b27-be9e-7813211f3ec5.png)
   
 </div>
 </details>  
@@ -2681,6 +2684,14 @@ String 2차원 배열 6행 6열을 만들고 행의 맨 위와 열의 맨 앞은
 
   
 #### 내 코드 실행결과
+  
+<img src="https://user-images.githubusercontent.com/116356234/232719446-ad959d9c-3347-4257-b121-f988c0c132c6.png" width="150">
+
+<img src="https://user-images.githubusercontent.com/116356234/232719449-02e8bda8-edd9-429e-83a4-45816f20515b.png" width="150">
+  
+<img src="https://user-images.githubusercontent.com/116356234/232719453-bcbe645f-852e-4311-8079-13235b63d149.png" width="150">
+  
+<img src="https://user-images.githubusercontent.com/116356234/232719457-a1d307ff-1000-4763-90a8-1ba4b1b6d2ef.png" width="150">
   
 </div>
 </details>  
