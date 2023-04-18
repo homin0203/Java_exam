@@ -2492,8 +2492,77 @@ String 2차원 배열 6행 6열을 만들고 행의 맨 위와 열의 맨 앞은
 </div>
 </details>
 
+## 다형성 & 추상클래스 & 인터페이스
+
+<details>
+<summary><h3>1️⃣ 다형성 실습문제(펼쳐보기 🖱️) </h3></summary>
+<div markdown="1">
+
+[→ 다형성 실습문제 패키지로 이동](https://github.com/homin0203/Java_exam/tree/main/09_polymorphism/src/com/kh/practice/chap01_poly)
   
+![10_다형성 실습문제_1 (2)](https://user-images.githubusercontent.com/116356234/232708000-da4f0ba5-824f-4146-a941-9e8634ee9ced.png)
   
+![10_다형성 실습문제_2 (2)](https://user-images.githubusercontent.com/116356234/232708008-85ada3a5-87dd-49fc-9494-9a489b330a3d.png)
+  
+![10_다형성 실습문제_3 (2)](https://user-images.githubusercontent.com/116356234/232708011-e89d4057-e2ff-4fc3-9051-81193926ca33.png)
+  
+![10_다형성 실습문제_4 (2)](https://user-images.githubusercontent.com/116356234/232708012-9e66f175-9630-4978-a244-39d98491c71f.png)
+  
+![10_다형성 실습문제_5 (2)](https://user-images.githubusercontent.com/116356234/232708017-a761fb3d-7961-4a7e-b4a9-56aac21ac9b4.png)
+  
+![10_다형성 실습문제_6 (2)](https://user-images.githubusercontent.com/116356234/232708022-41e12ef1-bda2-41fd-92a6-d377089e02d3.png)
+  
+![10_다형성 실습문제_7 (2)](https://user-images.githubusercontent.com/116356234/232708026-209c1965-9a6c-4e0c-95e0-942556c69c9d.png)
+  
+![10_다형성 실습문제_8 (2)](https://user-images.githubusercontent.com/116356234/232708036-dab11055-cfef-4a1b-9718-26fde9bad854.png)
+
+#### 내 코드 실행결과
+![결과1](https://user-images.githubusercontent.com/116356234/232708852-8b77e068-d5fb-4bd1-bcde-2b249117ae1a.png)
+  
+![결과2](https://user-images.githubusercontent.com/116356234/232708859-640d3e60-78e0-4cfa-bc8f-0453193dc298.png)
+  
+![결과3](https://user-images.githubusercontent.com/116356234/232708863-d1d37b3d-4cc1-4459-91ef-3951f0f3347b.png)
+  
+![결과4](https://user-images.githubusercontent.com/116356234/232708867-5c5f6e4b-2bc1-4253-a66e-f4fe49796522.png)
+  
+</div>
+</details>
+  
+<details>
+<summary><h3>2️⃣ 추상클래스 & 인터페이스 실습문제1(펼쳐보기 🖱️) </h3></summary>
+<div markdown="1">
+
+[→ 추상클래스 & 인터페이스 실습문제1 패키지로 이동](https://github.com/homin0203/Java_exam/tree/main/10_abstractInterface/src/com/kh/practice/chap02_abstractNInterface)
+
+![10_Abstract와Interface 실습문제_1 (2)](https://user-images.githubusercontent.com/116356234/232708057-95370196-5432-4f7c-8ec9-c192c267c575.png)
+  
+![10_Abstract와Interface 실습문제_2 (2)](https://user-images.githubusercontent.com/116356234/232708068-32059382-fffc-43ef-9dfb-cf124dbc1b44.png)
+  
+![10_Abstract와Interface 실습문제_3 (2)](https://user-images.githubusercontent.com/116356234/232708072-fd866e09-9b81-441f-a889-f1cd39eaf8d9.png)
+  
+![10_Abstract와Interface 실습문제_4 (2)](https://user-images.githubusercontent.com/116356234/232708075-d8123528-56da-44d1-ad78-22d74995cb0f.png)
+
+#### 내 코드 실행결과
+![결과](https://user-images.githubusercontent.com/116356234/232709691-09d5d0fc-99b5-4b62-817e-161aed9e94b5.png)
+  
+</div>
+</details>
+  
+<details>
+<summary><h3>3️⃣ 추상클래스 & 인터페이스 실습문제2(펼쳐보기 🖱️) </h3></summary>
+<div markdown="1">
+
+[→ 추상클래스 & 인터페이스 실습문제2 패키지로 이동](https://github.com/homin0203/Java_exam/tree/main/10_abstractInterface/src/parctice3)
+
+![10_추상클래스,인터페이스 실습문제2_1 (2)](https://user-images.githubusercontent.com/116356234/232708092-727f6339-75e9-4587-92e3-70ea057fa877.png)
+  
+![10_추상클래스,인터페이스 실습문제2_2 (2)](https://user-images.githubusercontent.com/116356234/232708102-e06f4d37-9e0b-4aca-98c4-688ae72ca8e4.png)
+
+#### 내 코드 실행결과
+![결과](https://user-images.githubusercontent.com/116356234/232709710-eca36bdf-068d-485c-b571-d5217cb1402e.png)
+  
+</div>
+</details>  
   
   
 
