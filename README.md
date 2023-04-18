@@ -2733,6 +2733,9 @@ String 2차원 배열 6행 6열을 만들고 행의 맨 위와 열의 맨 앞은
 ![4_generics_farm_15 (2)](https://user-images.githubusercontent.com/116356234/232714734-76e3a3ac-b432-4c41-9e49-9f3db34c8e7e.png)
   
 #### 내 코드 실행결과
+![제네릭](https://user-images.githubusercontent.com/116356234/232720134-b8334e9d-8437-4a9e-9239-aa4d69695c8f.png)
+ 
+![제네릭2](https://user-images.githubusercontent.com/116356234/232720160-cb0eca56-524b-41a5-ad86-646825a2ed8c.png)
   
 </div>
 </details>  
