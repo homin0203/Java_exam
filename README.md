@@ -2432,8 +2432,34 @@ String 2차원 배열 6행 6열을 만들고 행의 맨 위와 열의 맨 앞은
 </div>
 </details>
 
+## 상속
 
+<details>
+<summary><h3>2️⃣ 상속 실습문제(펼쳐보기 🖱️) </h3></summary>
+<div markdown="1">
 
+[→ 상속 실습문제 패키지로 이동](https://github.com/homin0203/Java_exam/tree/main/08_Inheritance/src/com/kh/practice/point)
+  
+![9_상속실습문제_단위변환_1 (2)](https://user-images.githubusercontent.com/116356234/232704324-21621cac-302e-4037-ab00-c230754a9c42.png)
+
+![9_상속실습문제_단위변환_2 (2)](https://user-images.githubusercontent.com/116356234/232704340-b063add7-98a5-404f-83c1-96e31ed003f1.png)
+
+![9_상속실습문제_단위변환_3 (2)](https://user-images.githubusercontent.com/116356234/232704350-68956d87-5f57-4915-a5f3-2507927526db.png)
+
+![9_상속실습문제_단위변환_4 (2)](https://user-images.githubusercontent.com/116356234/232704352-aa58ebce-28d1-475e-a12c-0bf591545106.png)
+
+![9_상속실습문제_단위변환_5 (2)](https://user-images.githubusercontent.com/116356234/232704356-53ac32e7-d426-4c47-a843-aed9d936628c.png)
+
+![9_상속실습문제_단위변환_6 (2)](https://user-images.githubusercontent.com/116356234/232704359-485a8537-b65f-43dc-a754-e8177557ed95.png)
+
+#### 내 코드 실행결과
+
+![실습문제1](https://user-images.githubusercontent.com/116356234/232704926-dc1e358d-6989-4500-a5d3-909478a7a028.png)
+
+![실습문제2](https://user-images.githubusercontent.com/116356234/232704920-4b1949c1-9184-40d7-9d84-0a3784d1e441.png)
+  
+</div>
+</details>
 
   
   
