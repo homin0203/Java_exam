@@ -2564,6 +2564,170 @@ String 2차원 배열 6행 6열을 만들고 행의 맨 위와 열의 맨 앞은
 </div>
 </details>  
   
+## 컬렉션 & 제네릭
+  
+<details>
+<summary><h3>1️⃣ List 과제1(펼쳐보기 🖱️) </h3></summary>
+<div markdown="1">
+
+[→ List 과제1 패키지로 이동](https://github.com/homin0203/Java_exam/tree/main/11_List/src/com/kh/practice/list/library)
+
+![1_list_Library_1 (2)](https://user-images.githubusercontent.com/116356234/232713979-741a99fe-a427-4379-9b23-29979cdcfa91.png)
+  
+![1_list_Library_2 (2)](https://user-images.githubusercontent.com/116356234/232713989-c95f7161-da18-4505-b401-7aa9515b9ff4.png)
+  
+![1_list_Library_3 (2)](https://user-images.githubusercontent.com/116356234/232713993-7433d6f1-9c6a-454f-9a8e-8fe00637982e.png)
+  
+![1_list_Library_4 (2)](https://user-images.githubusercontent.com/116356234/232713996-32b6edd9-4bfe-44f4-8a4b-c52d1553054e.png)
+  
+![1_list_Library_5 (2)](https://user-images.githubusercontent.com/116356234/232714003-73e7592a-f11d-4c51-9e78-2edbbbaec03c.png)
+  
+![1_list_Library_6 (2)](https://user-images.githubusercontent.com/116356234/232714005-29a5448f-bc19-451a-ab05-90c154f19fa8.png)
+  
+![1_list_Library_7 (2)](https://user-images.githubusercontent.com/116356234/232714010-7cbbe8b3-59a9-46c4-8a4e-b52e361e6a76.png)
+  
+![1_list_Library_8 (2)](https://user-images.githubusercontent.com/116356234/232714013-abe6a9a0-a056-4119-8a9d-3245c1696dde.png)
+  
+#### 내 코드 실행결과
+  
+</div>
+</details>  
+  
+<details>
+<summary><h3>2️⃣  List 과제2(펼쳐보기 🖱️) </h3></summary>
+<div markdown="1">
+
+[→ List 과제2 패키지로 이동](https://github.com/homin0203/Java_exam/tree/main/11_List/src/com/kh/practice/list/music)
+
+![1_list_Music_1 (2)](https://user-images.githubusercontent.com/116356234/232714308-09930b9c-fb09-434e-92f7-5bbf85fdf041.png)
+  
+![1_list_Music_2 (2)](https://user-images.githubusercontent.com/116356234/232714314-6ddc93f2-5003-4d6d-8975-606a88a142b2.png)
+  
+![1_list_Music_3 (2)](https://user-images.githubusercontent.com/116356234/232714317-38047ae0-4e47-4b87-a5df-96c995afeeff.png)
+  
+![1_list_Music_4 (2)](https://user-images.githubusercontent.com/116356234/232714322-7bcfebc7-c0e6-48ca-bd35-4d472bd3002f.png)
+  
+![1_list_Music_5 (2)](https://user-images.githubusercontent.com/116356234/232714326-47bad705-859c-4dea-8a08-cc56a440c660.png)
+  
+![1_list_Music_6 (2)](https://user-images.githubusercontent.com/116356234/232714328-8a2ef20a-1fe0-4417-b7a8-d563d52b469f.png)
+  
+![1_list_Music_7 (2)](https://user-images.githubusercontent.com/116356234/232714333-be751554-dbcf-4d83-a033-6464439ca552.png)
+  
+![1_list_Music_8 (2)](https://user-images.githubusercontent.com/116356234/232714336-918155cc-9c45-45bb-b85c-84f07bdc69a8.png)
+  
+![1_list_Music_9 (2)](https://user-images.githubusercontent.com/116356234/232714338-eaedb52b-9c80-4470-a1e3-6e7a572d522d.png)
+  
+![1_list_Music_10 (2)](https://user-images.githubusercontent.com/116356234/232714341-366de492-b220-4c5f-91ce-71d5e7432610.png)
+  
+![1_list_Music_11 (2)](https://user-images.githubusercontent.com/116356234/232714343-b34a35b2-cdd2-4d39-b8b5-436ce1453089.png)
+  
+#### 내 코드 실행결과
+  
+</div>
+</details>  
+  
+<details>
+<summary><h3>3️⃣ Set 과제(펼쳐보기 🖱️) </h3></summary>
+<div markdown="1">
+
+[→ Set 과제 패키지로 이동](https://github.com/homin0203/Java_exam/tree/main/11_List/src/com/kh/practice/set)
+
+![2_set_lottery_1 (2)](https://user-images.githubusercontent.com/116356234/232714397-7f09131e-77e6-4c92-a9c5-79b171023711.png)
+  
+![2_set_lottery_2 (2)](https://user-images.githubusercontent.com/116356234/232714406-ec6dd610-f6f6-40ce-8768-3f6bd5502054.png)
+  
+![2_set_lottery_3 (2)](https://user-images.githubusercontent.com/116356234/232714413-062096bd-48ae-4c71-8e02-f4ed3d7a00a6.png)
+  
+![2_set_lottery_4 (2)](https://user-images.githubusercontent.com/116356234/232714418-85a14e18-0cf9-4c02-9c5b-ebad04a7cd56.png)
+  
+![2_set_lottery_5 (2)](https://user-images.githubusercontent.com/116356234/232714421-b06445b3-2ca6-4665-8b39-84c4c27257cf.png)
+  
+![2_set_lottery_6 (2)](https://user-images.githubusercontent.com/116356234/232714425-f598d1d9-330a-4aeb-acc0-153ad6e34b21.png)
+  
+![2_set_lottery_7 (2)](https://user-images.githubusercontent.com/116356234/232714429-1d88d2ab-50a7-4f79-881c-d601fe0b76a1.png)
+  
+![2_set_lottery_8 (2)](https://user-images.githubusercontent.com/116356234/232714434-fddb8767-2368-4aed-9ef0-cecd661ff5da.png)
+  
+![2_set_lottery_9 (2)](https://user-images.githubusercontent.com/116356234/232714438-4e73dbd1-4ec8-4ad6-8503-da1b7be13b3f.png)
+  
+#### 내 코드 실행결과
+  
+</div>
+</details>  
+  
+<details>
+<summary><h3>4️⃣ Map 과제(펼쳐보기 🖱️) </h3></summary>
+<div markdown="1">
+
+[→ Map 과제 패키지로 이동](https://github.com/homin0203/Java_exam/tree/main/12_MapGenerics/src/com/kh/practice/map)
+
+![3_map_member_1 (2)](https://user-images.githubusercontent.com/116356234/232714509-b5c4c3d6-ad61-4ccf-b0dc-3d63beb4d700.png)
+  
+![3_map_member_2 (2)](https://user-images.githubusercontent.com/116356234/232714519-d915ce40-f1a2-46b6-9ddd-11ee7a50b613.png)
+  
+![3_map_member_3 (2)](https://user-images.githubusercontent.com/116356234/232714526-82aa44da-f3ce-499b-b3c2-a5d16e99a1cd.png)
+  
+![3_map_member_4 (2)](https://user-images.githubusercontent.com/116356234/232714534-b27e1c77-5fdc-4f96-9a13-7d1ca102837b.png)
+  
+![3_map_member_5 (2)](https://user-images.githubusercontent.com/116356234/232714543-59710ef5-7408-44ff-9fa5-081548a631a0.png)
+  
+![3_map_member_6 (2)](https://user-images.githubusercontent.com/116356234/232714548-74044193-a782-454f-981f-4a362e6420bf.png)
+  
+![3_map_member_7 (2)](https://user-images.githubusercontent.com/116356234/232714553-4e2ef68e-5366-4e46-ab01-bfe95fbcbebc.png)
+  
+![3_map_member_8 (2)](https://user-images.githubusercontent.com/116356234/232714559-b0f6d0de-a1fa-40d2-97f0-fd371c919be9.png)
+  
+![3_map_member_9 (2)](https://user-images.githubusercontent.com/116356234/232714561-118416a5-dcac-4cdb-b58b-5cfbf3a0491c.png)
+
+  
+#### 내 코드 실행결과
+  
+</div>
+</details>  
+  
+<details>
+<summary><h3>5️⃣ 컬렉션 & 제네릭 과제(펼쳐보기 🖱️) </h3></summary>
+<div markdown="1">
+
+[→ 컬렉션 & 제네릭 과제 패키지로 이동](https://github.com/homin0203/Java_exam/tree/main/12_MapGenerics/src/com/kh/practice/generics)
+
+![4_generics_farm_1 (2)](https://user-images.githubusercontent.com/116356234/232714651-cb21771d-1044-4c82-a8a2-3e91181e2fa1.png)
+  
+![4_generics_farm_2 (2)](https://user-images.githubusercontent.com/116356234/232714664-578734f6-dfc1-4bad-9ebb-27ea0ec14ebc.png)
+  
+![4_generics_farm_3 (2)](https://user-images.githubusercontent.com/116356234/232714672-f40a49a0-500b-4f2d-a664-494dfa9dd2b6.png)
+  
+![4_generics_farm_4 (2)](https://user-images.githubusercontent.com/116356234/232714678-f98b8f1c-bb4e-46ff-846b-dab97f903983.png)
+  
+![4_generics_farm_5 (2)](https://user-images.githubusercontent.com/116356234/232714684-aff4e294-e93e-4027-b0e9-667336997b15.png)
+  
+![4_generics_farm_6 (2)](https://user-images.githubusercontent.com/116356234/232714695-e8ea9cb6-1667-4843-8e78-1f667949f89b.png)
+  
+![4_generics_farm_7 (2)](https://user-images.githubusercontent.com/116356234/232714702-6943ce99-fdac-4cf6-bb8c-6c78144b0f3c.png)
+  
+![4_generics_farm_8 (2)](https://user-images.githubusercontent.com/116356234/232714703-bd722e6d-5a72-4ab8-97ea-db01fb59d723.png)
+  
+![4_generics_farm_9 (2)](https://user-images.githubusercontent.com/116356234/232714705-b05485bb-bd35-4013-ad82-8824fcc3763c.png)
+  
+![4_generics_farm_10 (2)](https://user-images.githubusercontent.com/116356234/232714711-2c738f5d-181b-4410-86f2-3310f3a81405.png)
+  
+![4_generics_farm_11 (2)](https://user-images.githubusercontent.com/116356234/232714716-73a10cb3-0bd4-4a1a-866f-b3de10df8a8c.png)
+  
+![4_generics_farm_12 (2)](https://user-images.githubusercontent.com/116356234/232714720-6d26012a-1ff7-40e9-b9d8-c3b667394226.png)
+  
+![4_generics_farm_13 (2)](https://user-images.githubusercontent.com/116356234/232714726-9a9b8987-799b-4390-9fbb-503bd0a4eff8.png)
+  
+![4_generics_farm_14 (2)](https://user-images.githubusercontent.com/116356234/232714729-eb074f6f-04f8-49ec-8d8b-777e82dd68dc.png)
+  
+![4_generics_farm_15 (2)](https://user-images.githubusercontent.com/116356234/232714734-76e3a3ac-b432-4c41-9e49-9f3db34c8e7e.png)
+  
+#### 내 코드 실행결과
+  
+</div>
+</details>  
+  
+
+  
   
 
 <details>
